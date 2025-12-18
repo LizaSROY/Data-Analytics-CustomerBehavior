@@ -1,5 +1,5 @@
 # Data-Analytics-CustomerBehavior
-data analytics project showcasing customer behavior analysis using Python, SQL, and Tableau
+data analytics project showcasing customer behavior analysis using Python, SQL, and Power BI
 
 
 
@@ -10,7 +10,7 @@ data analytics project showcasing customer behavior analysis using Python, SQL, 
 ## Overview
 
 This project demonstrates an end-to-end **data analytics workflow**, covering data loading, exploratory data analysis (EDA), data cleaning, SQL querying, and business insights visualization.
-The goal is to transform raw data into **actionable insights** using Python, MySQL, and Tableau, and communicate results through a report and presentation.
+The goal is to transform raw data into **actionable insights** using Python, MySQL, and Power BI, and communicate results through a report and presentation.
 
 This project reflects real-world data analyst tasks, from raw data handling to stakeholder-ready dashboards and presentations.
 
@@ -32,7 +32,7 @@ This project reflects real-world data analyst tasks, from raw data handling to s
 
   * Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`
 * **MySQL:** Data storage and SQL analysis
-* **Tableau:** Interactive dashboard and data visualization
+* **Power BI:** Interactive dashboard and data visualization
 * **Canva:** Presentation (PPT) design
 * **GitHub:** Version control and project documentation
 
@@ -70,8 +70,8 @@ This project reflects real-world data analyst tasks, from raw data handling to s
 
 5. **Data Visualization**
 
-   * Connected MySQL data to Tableau
-   * Built an interactive dashboard with key KPIs and charts
+   * Connected MySQL data to Power BI
+   * Built an interactive dashboard with charts
 
 6. **Reporting & Presentation**
 
@@ -82,15 +82,12 @@ This project reflects real-world data analyst tasks, from raw data handling to s
 
 ## Dashboard
 
-The Tableau dashboard highlights:
+The Power BI dashboard highlights:
 
-* Key performance indicators (KPIs)
 * Trends and comparisons
 * Interactive filters for deeper analysis
 
-📌 *Dashboard includes charts such as bar charts, line charts, and summary tables.*
-
-*(Add Tableau Public link here if available)*
+📌 *Dashboard includes charts such as bar charts, line charts, Pie chart and summary tables.*
 
 ---
 
@@ -128,7 +125,7 @@ The Tableau dashboard highlights:
    * Create database and tables
    * Run provided SQL queries
 
-5. **Open Tableau**
+5. **Open Power BI**
 
    * Connect to MySQL or CSV
    * Load the dashboard file
